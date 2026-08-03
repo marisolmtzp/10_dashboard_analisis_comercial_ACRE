@@ -95,7 +95,7 @@ El proceso del proyecto está documentado en el Jupyter Notebook del proyecto qu
 - Resumen ejecutivo con hallazgos clave, méticas principales, insights accionables y recomendaciones estratégicas.
 
 
-## 👤 Autor
 
+---
 *Marisol Martínez Pulgarín · Data Analyst*
 *[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp)*
