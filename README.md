@@ -81,8 +81,18 @@ monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta 
 │
 └── README.md
 ```
+<!--
+## 🔄 Flujo general del proyecto
 
-
+-->
+## 📓 Guía paso a paso
+El proceso del proyecto está documentado en el Jupyter Notebook del proyecto que incluye:
+- Limpieza de datos.
+- Creación de tablas auxiliares.
+- Modelado de datos.
+- Medidas analíticas.
+- Resumen de la Estructura del dashboard.
+- Resumen ejecutivo con hallazgos clave, méticas principales, insights accionables y recomendaciones estratégicas.
 
 
 
