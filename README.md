@@ -1,4 +1,4 @@
-# Dashboard de análisis comercial inmobiliario 2023-2024 - Andes Capital Real Estate
+# Dashboard - Análisis comercial inmobiliario 2023-2024 - Andes Capital Real Estate
 
 
 ## Contexto y problema de negocio
