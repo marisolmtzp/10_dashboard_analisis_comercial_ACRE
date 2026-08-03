@@ -33,8 +33,18 @@ El dashboard ayuda a responder preguntas como:<br>
 ## 📂 Dataset del proyecto
 El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (clientes y propiedades).<br>
 
-**hecho_ventas_propiedades: Cada fila representa la transacción de venta de una propiedad.**
-👉 Este dataset permitirá analizar ventas, comisiones, canales comerciales y tendencias en el tiempo.
+**hecho_ventas_propiedades: Cada fila representa la transacción de venta de una propiedad.**<br>
+👉 Este dataset permitirá analizar ventas, comisiones, canales comerciales y tendencias en el tiempo.<br>
+
+**dim_clientes : Cada fila representa un cliente.**<br>
+👉 Este dataset permitirá analizar la segmentación de clientes y el comportamiento de compra por ubicación o tipo de comprador.<br>
+
+**dim_propiedades: Cada fila representa una propiedad disponible para venta.**<br>
+👉 Este dataset permitirá analizar características de las propiedades y su relación con el desempeño comercial.<br>
+
+
+
+
 
 <!--		
 | Columna | Tipo de dato | Descripción | Ejemplo |
