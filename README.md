@@ -17,16 +17,17 @@ El dashboard debe ayudar a responder preguntas como:<br>
 > *¿El negocio está creciendo año contra año?*<br>
 > *¿Los clientes vuelven a comprar después de su primera compra?*<br>
 
-
-
-
 ## 🎯 Funcionalidades implementadas
 - Preparación y validación de datos para el análisis.
-- Construcción de un modelo de datos en esquema estrella.
-- Creación de medidas analíticas para análisis comercial.
-- Aplicación de inteligencia de tiempo para analizar tendencias.
+- Construcción de un **modelo de datos en esquema estrella.**
+- Creación de **medidas analíticas** para análisis comercial.
+- Aplicación de **inteligencia de tiempo** para analizar tendencias.
 - Diseño de dashboards claros para análisis ejecutivo.
-- Análisis de la recurrencia de clientes utilizando cohortes.
+- Análisis de la **recurrencia de clientes utilizando cohortes**.
 
-
+## 🛠️ Herramientas del proyecto
+- Power BI
+- Visualizaciones nativas (barras, líneas, tablas, KPI).
+- Modelado de datos en esquema estrella.
+- Cálculos analíticos (medidas y columnas calculadas).
 
