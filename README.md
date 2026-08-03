@@ -9,13 +9,15 @@ Actualmente, la información existe a nivel transaccional, pero no hay una visi�
 👉 La misión es construir un dashboard interactivo en Power BI que permita analizar ventas, clientes y propiedades para apoyar decisiones estratégicas.
 
 **💡 Preguntas del negocio**
-El dashboard debe ayudar a responder preguntas como:
-> *¿Cuál es el ingreso total generado por las ventas de propiedades?*
-> *¿Qué tipo de propiedad genera más ingresos?*
-> *¿Qué segmentos de clientes compran más?*
-> *¿Cómo evolucionan las ventas en el tiempo?*
-> *¿El negocio está creciendo año contra año?*
-> *¿Los clientes vuelven a comprar después de su primera compra?*
+El dashboard debe ayudar a responder preguntas como:<br>
+> *¿Cuál es el ingreso total generado por las ventas de propiedades?*<br>
+> *¿Qué tipo de propiedad genera más ingresos?*<br>
+> *¿Qué segmentos de clientes compran más?*<br>
+> *¿Cómo evolucionan las ventas en el tiempo?*<br>
+> *¿El negocio está creciendo año contra año?*<br>
+> *¿Los clientes vuelven a comprar después de su primera compra?*<br>
+
+
 
 
 
