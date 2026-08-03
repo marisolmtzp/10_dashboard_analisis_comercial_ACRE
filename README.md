@@ -37,14 +37,14 @@ El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (cliente
 👉 Este dataset permitirá analizar ventas, comisiones, canales comerciales y tendencias en el tiempo.
 			
 | Columna | Tipo de dato | Descripción | Ejemplo |
-|----------|------------|------------------|------------------|
+|--------|--------|------------------|------------------|
 id_venta | Categórica | Identificador único de la venta | SALE000001
 fecha_venta | Fecha	|Fecha en que se realizó la venta | 2024-01-05
 id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497
 id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591
 ciudad | Categórica| Ciudad donde se realizó la venta | Bogotá
 precio_venta | Numérico (decimal) |	Precio final de venta de la propiedad | 1027126
-tipo_propiedad | Categórica	Tipo de propiedad vendida | Casa
+tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa
 canal_venta	| Categórica | Canal utilizado para la venta	| Corredor
 porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473
 monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605
