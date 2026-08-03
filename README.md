@@ -74,7 +74,7 @@ monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta 
 │   ├── Andes_Capital_RE_2023_2024.xlsx      # Dataset consolidado para Power BI
 │
 ├── notebooks/
-│   ├── S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb  # ETL · KPIs base · Análisis · estadística · visualizaciones · conclusiones
+│   ├── S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb  # ETL · KPIs base · Análisis · estadística · conclusiones
 │
 ├── dashboard/
 │   └── S11_P10_Analisis_Comercial_ACRE.pbix           # Dashboard Power BI · 3 páginas · medidas DAX
