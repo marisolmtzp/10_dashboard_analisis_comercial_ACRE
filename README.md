@@ -97,5 +97,5 @@ El proceso del proyecto está documentado en el Jupyter Notebook del proyecto qu
 
 
 ---
-*Marisol Martínez Pulgarín · Data Analyst*
+*Marisol Martínez Pulgarín · Data Analyst*  · 
 *[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp)*
