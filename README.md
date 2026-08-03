@@ -86,7 +86,7 @@ monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta 
 
 -->
 ## 📓 Guía paso a paso
-El proceso del proyecto está documentado en el Jupyter Notebook del proyecto que incluye:
+El proceso del proyecto está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 - Limpieza de datos.
 - Creación de tablas auxiliares.
 - Modelado de datos.
