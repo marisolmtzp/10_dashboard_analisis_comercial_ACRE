@@ -61,7 +61,26 @@ porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en 
 monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605
 -->
 
-
+## Estructura del proyecto
+```
+10_dashboard_analisis_comercial_ACRE/
+│
+├── Datasets/                                ← Datos fuente
+│   ├── dim_propiedades.csv                  # 8,000 registros de propiedades · 8 columnas
+│   ├── dim_clientes.csv                     # 3,500 registros de clientes · 4 columnas
+│   └── hecho_ventas_propiedades.csv         # 8,500 transacciones de venta · 10 columnas
+│
+├── exports/                                ← Generado al ejecutar data wrangling
+│   ├── Andes_Capital_RE_2023_2024.xlsx      # Dataset consolidado para Power BI
+│
+├── notebooks/
+│   ├── S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb  # ETL · KPIs base · Análisis · estadística · visualizaciones · conclusiones
+│
+├── dashboard/
+│   └── S11_P10_Analisis_Comercial_ACRE.pbix           # Dashboard Power BI · 3 páginas · medidas DAX
+│
+└── README.md
+```
 
 
 
