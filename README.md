@@ -87,6 +87,20 @@ monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta 
 
 </sub>
 
+Durante el proyecto se creó una tabla calendario llamada dim_fecha.<br>
+**dim_fecha: Esta tabla permitirá realizar análisis temporal como:**<br>
+👉 Tendencias de ventas.
+👉 Comparaciones Year over Year.
+👉 Métricas acumuladas YTD y MTD.
+
+
+
+
+
+
+
+
+
 ## Estructura del proyecto
 ```
 10_dashboard_analisis_comercial_ACRE/
