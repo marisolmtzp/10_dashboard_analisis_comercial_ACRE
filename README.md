@@ -128,7 +128,7 @@ Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 
 | Paso | Acción | Resultado |
-|--------|-----------|---------------------|
+|--------------------|-----------|---------------------|
 1. Limpieza de datos | y | z 
 
 
