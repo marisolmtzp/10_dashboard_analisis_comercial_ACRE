@@ -60,10 +60,10 @@ monto_comision | Numérico (decimal) | Monto de comisión generado por la venta 
 
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-id_cliente | Categórica | Identificador único del cliente | CUST00001
-segmento_comprador | Categórica | Tipo o perfil del comprador | Primera vez
-pais | Categórica | País del cliente | Colombia
-ciudad | Categórica | Ciudad del cliente | Bogotá
+| id_cliente | Categórica | Identificador único del cliente | CUST00001 |
+| segmento_comprador | Categórica | Tipo o perfil del comprador | Primera vez |
+| pais | Categórica | País del cliente | Colombia |
+| ciudad | Categórica | Ciudad del cliente | Bogotá |
 
 </sub>
 
@@ -127,18 +127,10 @@ Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
 ## 🔄 Flujo general del proyecto (Guía paso a paso)
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 
+
 | Paso | Acción | Resultado |
 |--------------------|-----------|---------------------|
-1. Limpieza de datos | y | z 
-
-
-
-
- | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis
-
-
-
-
+1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis
 2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal. | Base para inteligencia de tiempo.
 3. Modelado de datos | Construcción de esquema estrella. | Modelo analítico correcto.
 4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo. | Insights del negocio.
