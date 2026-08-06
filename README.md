@@ -89,17 +89,19 @@ monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta 
 
 Durante el proyecto se creó una tabla calendario llamada dim_fecha.<br>
 **dim_fecha: Esta tabla permitirá realizar análisis temporal como:**<br>
-👉 Tendencias de ventas.
-👉 Comparaciones Year over Year.
-👉 Métricas acumuladas YTD y MTD.
+👉 Tendencias de ventas; Comparaciones Year over Year (YoY); Métricas acumuladas YTD y MTD.
 
+<sub>
+	
+| Columna | Tipo de dato | Descripción | Ejemplo |
+|--------|--------|------------------|------------------|
+Date | Fecha | Fecha del calendario | 2024-01-05
+Año | Numérico (int) | Año de la fecha | 2024
+Mes | Categórica | Nombre del mes | Enero
+Mes Numero | Numérico (int) | Número del mes | 1
+Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
 
-
-
-
-
-
-
+</sub>
 
 ## Estructura del proyecto
 ```
