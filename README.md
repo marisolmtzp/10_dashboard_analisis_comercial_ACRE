@@ -129,12 +129,12 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 
 | Paso | Acción | Resultado |
 |--------|-----------|---------------------|
-x | y | z 
+1. Limpieza de datos | y | z 
 
 
 
 
-1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis
+ | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis
 
 
 
