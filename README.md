@@ -42,7 +42,6 @@ El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (cliente
 
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-Columna | Tipo de dato | Descripción | Ejemplo
 id_cliente | Categórica | Identificador único del cliente | CUST00001
 segmento_comprador | Categórica | Tipo o perfil del comprador | Primera vez
 pais | Categórica | País del cliente | Colombia
