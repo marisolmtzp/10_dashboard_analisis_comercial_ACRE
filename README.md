@@ -40,16 +40,16 @@ El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (cliente
 
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-id_venta | Categórica | Identificador único de la venta | SALE000001
-fecha_venta | Fecha | Fecha en que se realizó la venta | 2024-01-05
-id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497
-id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591
-ciudad | Categórica | Ciudad donde se realizó la venta | Bogotá
-precio_venta | Numérico (decimal) | Precio final de venta de la propiedad | 1027126
-tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa
-canal_venta | Categórica | Canal utilizado para la venta | Corredor
-porcentaje_comision | Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473
-monto_comision | Numérico (decimal) | Monto de comisión generado por la venta | 48605
+| id_venta | Categórica | Identificador único de la venta | SALE000001 |
+| fecha_venta | Fecha | Fecha en que se realizó la venta | 2024-01-05 |
+| id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497 |
+| id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591 |
+| ciudad | Categórica | Ciudad donde se realizó la venta | Bogotá |
+| precio_venta | Numérico (decimal) | Precio final de venta de la propiedad | 1027126 |
+| tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa |
+| canal_venta | Categórica | Canal utilizado para la venta | Corredor |
+| porcentaje_comision | Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473 |
+| monto_comision | Numérico (decimal) | Monto de comisión generado por la venta | 48605 |
 
 </sub>
 
@@ -74,16 +74,16 @@ monto_comision | Numérico (decimal) | Monto de comisión generado por la venta 
 	
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-id_venta | Categórica | Identificador único de la venta | SALE000001
-fecha_venta | Fecha	|Fecha en que se realizó la venta | 2024-01-05
-id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497
-id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591
-ciudad | Categórica| Ciudad donde se realizó la venta | Bogotá
-precio_venta | Numérico (decimal) |	Precio final de venta de la propiedad | 1027126
-tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa
-canal_venta	| Categórica | Canal utilizado para la venta	| Corredor
-porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473
-monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605
+| id_venta | Categórica | Identificador único de la venta | SALE000001 |
+| fecha_venta | Fecha	|Fecha en que se realizó la venta | 2024-01-05 |
+| id_cliente | Categórica | Identificador del cliente que realizó la compra | CUST02497 |
+| id_propiedad | Categórica | Identificador de la propiedad vendida | PROP03591 |
+| ciudad | Categórica| Ciudad donde se realizó la venta | Bogotá |
+| precio_venta | Numérico (decimal) |	Precio final de venta de la propiedad | 1027126 |
+| tipo_propiedad | Categórica | Tipo de propiedad vendida | Casa |
+| canal_venta	| Categórica | Canal utilizado para la venta	| Corredor 1
+| porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en la venta | 0.0473 1
+| monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605 |
 
 </sub>
 
@@ -95,11 +95,11 @@ Durante el proyecto se creó una tabla calendario llamada dim_fecha.<br>
 	
 | Columna | Tipo de dato | Descripción | Ejemplo |
 |--------|--------|------------------|------------------|
-Date | Fecha | Fecha del calendario | 2024-01-05
-Año | Numérico (int) | Año de la fecha | 2024
-Mes | Categórica | Nombre del mes | Enero
-Mes Numero | Numérico (int) | Número del mes | 1
-Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
+| Date | Fecha | Fecha del calendario | 2024-01-05 |
+| Año | Numérico (int) | Año de la fecha | 2024 |
+| Mes | Categórica | Nombre del mes | Enero |
+| Mes Numero | Numérico (int) | Número del mes | 1 |
+| Año-Mes | Categórica | Año y mes en formato analítico | 2024-01 |
 
 </sub>
 
@@ -130,12 +130,12 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 
 | Paso | Acción | Resultado |
 |--------------------|-----------|---------------------|
-1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis
-2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal. | Base para inteligencia de tiempo.
-3. Modelado de datos | Construcción de esquema estrella. | Modelo analítico correcto.
-4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo. | Insights del negocio.
-5. Diseño de dashboard | Creación de páginas de análisis ejecutivo, comercial y cohortes. | Visualización clara.
-6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones. | Insights estratégicos.
+| 1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis |
+| 2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal. | Base para inteligencia de tiempo |
+| 3. Modelado de datos | Construcción de esquema estrella. | Modelo analítico correcto |
+| 4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo | Insights del negocio |
+| 5. Diseño de dashboard | Creación de páginas de análisis ejecutivo, comercial y cohortes | Visualización clara |
+| 6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones | Insights estratégicos. |
 
 ---
 *Marisol Martínez Pulgarín · Data Analyst*  · 
