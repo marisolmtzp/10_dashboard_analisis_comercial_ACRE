@@ -38,6 +38,7 @@ El proyecto utiliza una tabla de hechos (ventas) y tablas dimensionales (cliente
 
 **dim_clientes : Cada fila representa un cliente.**<br>
 👉 Este dataset permitirá analizar la segmentación de clientes y el comportamiento de compra por ubicación o tipo de comprador.<br>
+
 <sub>
 
 | Columna | Tipo de dato | Descripción | Ejemplo |
@@ -48,6 +49,7 @@ pais | Categórica | País del cliente | Colombia
 ciudad | Categórica | Ciudad del cliente | Bogotá
 
 </sub>
+
 **dim_propiedades: Cada fila representa una propiedad disponible para venta.**<br>
 👉 Este dataset permitirá analizar características de las propiedades y su relación con el desempeño comercial.<br>	
 <sub>
