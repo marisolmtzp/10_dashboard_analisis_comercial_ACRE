@@ -142,7 +142,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 ## Cómo reproducir el análisis
 
 **1. Revisión del notebook**<br>
-jupyter notebook: **[notebooks/S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
+Jupyter notebook: **[notebooks/S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
 
 **2. Power BI**<br>
 Descargar el dashboard y abrirlo en Power BI: **[dashboards/S11_P10_Analisis_Comercial_ACRE.pbix](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/tree/578f0806d453d2d0dd9ee1a15546db6d909f000f/dashboards)**<br>
