@@ -138,7 +138,10 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones | Insights estratégicos |
 
 ---
-https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb
+**[Link al notebook en este repositorio]([https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb))**
+
+
+
 ---
 *Marisol Martínez Pulgarín · Data Analyst*  · 
 *[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp)*
