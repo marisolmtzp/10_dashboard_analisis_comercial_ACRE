@@ -129,7 +129,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 
 
 | Paso | Acción | Resultado |
-|--------------------|-----------|---------------------|
+|---------|-----------|---------------------|
 | 1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados | Dataset listo para análisis |
 | 2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal | Base para inteligencia de tiempo |
 | 3. Modelado de datos | Construcción de esquema estrella | Modelo analítico correcto |
