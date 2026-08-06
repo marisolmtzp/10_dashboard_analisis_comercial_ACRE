@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![EDA](https://img.shields.io/badge/EDA-4B8BBE?style=flat)
-
+![Star Schema](https://img.shields.io/badge/Star_Schema-4B8BBE?style=flat)
 
 ---
 ## Contexto y problema de negocio
