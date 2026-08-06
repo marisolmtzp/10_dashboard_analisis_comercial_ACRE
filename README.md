@@ -51,7 +51,8 @@ ciudad | Categórica | Ciudad del cliente | Bogotá
 </sub>
 
 **dim_propiedades: Cada fila representa una propiedad disponible para venta.**<br>
-👉 Este dataset permitirá analizar características de las propiedades y su relación con el desempeño comercial.<br>	
+👉 Este dataset permitirá analizar características de las propiedades y su relación con el desempeño comercial.<br>
+
 <sub>
 	
 | Columna | Tipo de dato | Descripción | Ejemplo |
@@ -68,7 +69,6 @@ porcentaje_comision	| Numérico (decimal) | Porcentaje de comisión aplicado en 
 monto_comision | Numérico (decimal)	| Monto de comisión generado por la venta | 48605
 
 </sub>
-
 
 ## Estructura del proyecto
 ```
