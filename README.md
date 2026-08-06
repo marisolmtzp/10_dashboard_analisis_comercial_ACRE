@@ -127,8 +127,6 @@ Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
 ## 🔄 Flujo general del proyecto (Guía paso a paso)
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
 
-<sub>
-	
 | Paso | Acción | Resultado |
 |---------|-----------|----------------------|
 1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados. | Dataset listo para análisis.
@@ -137,8 +135,6 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo. | Insights del negocio.
 5. Diseño de dashboard | Creación de páginas de análisis ejecutivo, comercial y cohortes. | Visualización clara.
 6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones. | Insights estratégicos.
-
-</sub>
 
 ---
 *Marisol Martínez Pulgarín · Data Analyst*  · 
