@@ -123,20 +123,22 @@ Año-Mes | Categórica | Año y mes en formato analítico | 2024-01
 │
 └── README.md
 ```
-<!--
-## 🔄 Flujo general del proyecto
 
--->
-## 📓 Guía paso a paso
+## 🔄 Flujo general del proyecto (Guía paso a paso)
 El proceso está documentado en el Jupyter Notebook del proyecto que incluye los detalles sobre:
-- Limpieza de datos.
-- Creación de tablas auxiliares.
-- Modelado de datos.
-- Medidas analíticas.
-- Resumen de la Estructura del dashboard.
-- Resumen ejecutivo con hallazgos clave, méticas principales, insights accionables y recomendaciones estratégicas.
 
+<sub>
+	
+| Paso | Acción | Resultado |
+|---------|-----------|----------------------|
+1. Limpieza de datos | Validación de tipos de datos, nulos y duplicados. | Dataset listo para análisis.
+2. Creación de tabla calendario | Construcción de tabla dim_fecha para análisis temporal. | Base para inteligencia de tiempo.
+3. Modelado de datos | Construcción de esquema estrella. | Modelo analítico correcto.
+4. Creación de medidas | Construcción de métricas comerciales e inteligencia de tiempo. | Insights del negocio.
+5. Diseño de dashboard | Creación de páginas de análisis ejecutivo, comercial y cohortes. | Visualización clara.
+6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones. | Insights estratégicos.
 
+</sub>
 
 ---
 *Marisol Martínez Pulgarín · Data Analyst*  · 
