@@ -1,5 +1,11 @@
 # Dashboard - Análisis comercial inmobiliario 2023-2024 <br>Andes Capital Real Estate
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
+---
 ## Contexto y problema de negocio
 La empresa inmobiliaria Andes Capital Real Estate necesita comprender mejor el desempeño comercial. 
 La empresa gestiona la venta de diferentes tipos de propiedades a través de distintos canales de venta y segmentos de clientes.
