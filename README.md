@@ -139,6 +139,12 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 
 ---
 <div style="background-color: #F6F8FA; padding: 16px; border-radius: 5px;">
+
+</div>
+
+
+
+
 ## Cómo reproducir el análisis
 
 # 1. Revisión del notebook
@@ -149,12 +155,6 @@ Descargar el dashboard y abrirlo en Power BI: **[dashboards/S11_P10_Analisis_Com
 Conectar dashboard a la fuente de datos limpia: **[exports/Andes_Capital_RE_2023_2024.xlsx](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/tree/84e0940c20bae506b1d679c04503eec56d594b4f/exports)**
 
 
-</div>
----
 
-
-
-
----
 *Marisol Martínez Pulgarín · Data Analyst*  · 
 *[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp)*
