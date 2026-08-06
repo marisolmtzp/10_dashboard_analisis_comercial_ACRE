@@ -138,10 +138,20 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 | 6. Resumen ejecutivo | Interpretación de resultados y generación de recomendaciones | Insights estratégicos |
 
 ---
+## Cómo reproducir el análisis
 
-**[Link al notebook en este repositorio](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
+```bash
+# 1. Revisión del notebook
+**[jupyter notebook notebooks/S11_P10 Proyecto_InmobiliarioGrupoAndes.ipynb](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/blob/27c85dfebb263785fa8db2c3e526a91af37278bc/notebooks/S11_P10%20Proyecto_InmobiliarioGrupoAndes.ipynb)**
 
-**[Link al dashboard en este repositorio](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/tree/578f0806d453d2d0dd9ee1a15546db6d909f000f/dashboards)**
+# 2. Power BI
+Descargar el dashboard y abrirlo en Power BI: **[dashboards/S11_P10_Analisis_Comercial_ACRE.pbix](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/tree/578f0806d453d2d0dd9ee1a15546db6d909f000f/dashboards)**
+Conectar dashboard a la fuente de datos limpia: **[exports/Andes_Capital_RE_2023_2024.xlsx](https://github.com/marisolmtzp/10_dashboard_analisis_comercial_ACRE/tree/84e0940c20bae506b1d679c04503eec56d594b4f/exports)**
+
+---
+
+
+
 
 ---
 *Marisol Martínez Pulgarín · Data Analyst*  · 
