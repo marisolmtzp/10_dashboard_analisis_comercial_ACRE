@@ -158,5 +158,6 @@ Conectar dashboard a la fuente de datos limpia: **[exports/Andes_Capital_RE_2023
 
 ---
 
-*Marisol Martínez Pulgarín · Data Analyst*  · 
-*[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp)*
+*Marisol Martínez Pulgarín · Data Analyst | Business Analyst | BI Developer*  · 
+*[LinkedIn](https://www.linkedin.com/in/marisolmtzp/) · [GitHub](https://github.com/marisolmtzp) · [Portafolio]([https://github.com/marisolmtzp](https://marisolmtzp.github.io)*
+
