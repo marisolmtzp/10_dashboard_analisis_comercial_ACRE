@@ -149,7 +149,7 @@ El proceso está documentado en el Jupyter Notebook del proyecto que incluye los
 
 ### 💭 Reflexión personal
 
-> **Lo que más destaqué en este proyecto:** modelado de datos y análisis de retención de clientes.<br>
+> **En este proyecto destaca:** el modelado de datos y el análisis de retención de clientes.<br>
 > En este proyecto el reto no fue el diseño visual, sino construir una base de datos sólida desde cero: pasar de archivos planos y dispersos a un modelo relacional en esquema estrella, y desde ahí definir medidas DAX que realmente respondieran preguntas de negocio (no solo sumas, sino participación relativa por segmento y categoría). El análisis de cohortes fue, sin duda, la parte que más disfruté — ver cómo una matriz de retención puede revelar patrones de comportamiento que un dashboard de KPIs por sí solo no muestra, y conectar eso con una recomendación de negocio concreta (fortalecer la recompra en cohortes recientes) fue lo que le dio sentido a todo el proyecto.
 > ***Esto me confirmó que un buen modelo de datos no es un paso previo al análisis: es, en sí mismo, la mitad del análisis.***
 
